@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.05611e7b.css",
+    "main.js": "/static/js/main.55ff69f6.js",
+    "static/js/845.10d57d28.chunk.js": "/static/js/845.10d57d28.chunk.js",
+    "static/media/JS1.wav": "/static/media/JS1.03a4cdc871c76ca2308c.wav",
+    "static/media/jkl4.wav": "/static/media/jkl4.c2a9a7427d3961a1a8f3.wav",
+    "static/media/music.png": "/static/media/music.d156ed52315cfe6bd446.png",
+    "static/media/BiisiKirjasto.png": "/static/media/BiisiKirjasto.e3ae51d3436a65b7fa9a.png",
+    "static/media/personal.jpg": "/static/media/personal.3dc1289da96263ffa4f4.jpg",
+    "static/media/Jesse.webp": "/static/media/Jesse.57db368a9beb3a721bbe.webp",
+    "static/media/work.jpeg": "/static/media/work.776371388f1022427d55.jpeg",
+    "static/media/OnlineStore.jpeg": "/static/media/OnlineStore.d275d824768fbab28e06.jpeg",
+    "static/media/platformer.png": "/static/media/platformer.50491549ccfe056d347a.png",
+    "static/media/ThaiMarket2.png": "/static/media/ThaiMarket2.348df21e3022aa7175c5.png",
+    "static/media/TinkerIT.png": "/static/media/TinkerIT.12aa2923e3126ecc569a.png",
+    "static/media/student.webp": "/static/media/student.5b4cea6004386ba50b2f.webp",
+    "static/media/lamppu.webp": "/static/media/lamppu.d942754dfb35e53fd96b.webp",
+    "static/media/studytracker2.png": "/static/media/studytracker2.88fd71cc762a049f412b.png",
+    "static/media/savolainenText.png": "/static/media/savolainenText.91ade028af5f4360b6e7.png",
+    "static/media/savo.png": "/static/media/savo.26bee57011b01c26fb0d.png",
+    "static/media/Game.png": "/static/media/Game.32d8f21385f4422e2a53.png",
+    "static/media/SC.webp": "/static/media/SC.9535a57c404980863a50.webp",
+    "static/media/AirportTaxi3.png": "/static/media/AirportTaxi3.f2fd7d5be7031376500f.png",
+    "static/media/studytracker1.png": "/static/media/studytracker1.8dcd939a9ff1e62fc76c.png",
+    "static/media/AirportTaxi.webp": "/static/media/AirportTaxi.ee534fc6881ce643a10f.webp",
+    "index.html": "/index.html",
+    "main.05611e7b.css.map": "/static/css/main.05611e7b.css.map",
+    "main.55ff69f6.js.map": "/static/js/main.55ff69f6.js.map",
+    "845.10d57d28.chunk.js.map": "/static/js/845.10d57d28.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.05611e7b.css",
+    "static/js/main.55ff69f6.js"
+  ]
+}
